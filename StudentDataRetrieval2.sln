@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentDataRetrieval2", "StudentDataRetrieval2\StudentDataRetrieval2.csproj", "{204DB9F4-99D2-432D-8816-BF2B0913694C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204DB9F4-99D2-432D-8816-BF2B0913694C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204DB9F4-99D2-432D-8816-BF2B0913694C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204DB9F4-99D2-432D-8816-BF2B0913694C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204DB9F4-99D2-432D-8816-BF2B0913694C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DA400C-FD27-4497-8778-3DE6C5820A16}
+	EndGlobalSection
+EndGlobal
